@@ -1,5 +1,6 @@
 # Git Basics
 
+
 This repository will help you get comfortable with basic git operations: making changes and publishing them.
 
 We will learn the following git operations:
@@ -13,6 +14,7 @@ Other useful commands to see what is going on the git repository:
 
 - `status`
 - `log`
+- `SJJ` not a real command
 
 ## Exercises
 
