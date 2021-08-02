@@ -14,13 +14,12 @@ Other useful commands to see what is going on the git repository:
 
 - `status`
 - `log`
-- `SJJ` not a real command
 
 ## Exercises
 
-- [ ] Fork this repo
-- [ ] Clone this repo
-- [ ] Update the README: add some lines to the end and push them to GitHub
+- [x] Fork this repo
+- [x] Clone this repo
+- [x] Update the README: add some lines to the end and push them to GitHub
 - [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [ ] Update newfile.txt and push the changes to GitHub
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
@@ -29,3 +28,5 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
+
+Doing the mandatory adds
